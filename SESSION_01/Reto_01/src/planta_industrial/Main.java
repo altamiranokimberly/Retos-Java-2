@@ -5,10 +5,7 @@
  */
 package planta_industrial;
 
-
 import java.util.*;
-
-
 
 public class Main {
     
@@ -17,7 +14,6 @@ public class Main {
             orden.mostrarResumen();
         }
     }
-
    
     public static void procesarPersonalizadas(List<? super OrdenPersonalizada> lista, int costoAdicional) {
         for (Object obj : lista) {
