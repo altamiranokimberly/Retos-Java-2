@@ -15,7 +15,8 @@ public class Main{
         new Articulo("Teoría de Clases", "Carlos Ruiz", 1200),
         new Articulo("Herencia y Polimorfismo", "Juan Pérez", 1500),
         new Ejercicio("Práctica 1", "Ana Gómez"),
-        new Ejercicio("Práctica 2", "Carlos Ruiz"));
+        new Ejercicio("Práctica 2", "Carlos Ruiz"),
+        new Ejercicio("Práctica 3", "Juan Pérez"));
         
         
  
